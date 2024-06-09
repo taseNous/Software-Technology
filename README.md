@@ -15,31 +15,31 @@ Organise a project from start to finish <br /> <br />
 <br />
 
 # 📚 **LibConn**
-## Περιγραφή Έργου
-Το έργο που υλοποιούμε αφορά τη διαχείριση μιας βιβλιοθήκης και αποτελεί τον 
-“ενδιάμεσο” μεταξύ αυτών που διαβάζουν βιβλία και αυτών που διαθέτουν βιβλία προς 
-δανεισμό.Σκοπός του είναι να δώσει αξία στα βιβλία που παραμένουν αχρησιμοποίητα σε 
-βιβλιοθήκες, καθώς και να προσφέρει μια φθηνή εναλλακτική στο διάβασμα βιβλίων. Οι 
-χρήστες θα μπορούν να εγγραφούν σαν αναγνώστες ή σαν βιβλιοθήκες. Ένας αναγνώστης 
-θα μπορεί χρησιμοποιώντας κάποιους “χρηματικούς πόρους” να δανειστεί βιβλία. Ακόμα, 
-θα μπορεί να δει τα διαθέσιμα προς δανεισμό βιβλία, να προσθέσει αγαπημένους 
-συγγραφείς, βιβλία, κατηγορίες βιβλίων, να αξιολογήσει βιβλία και να γράψει μικρές 
-κριτικές για αυτά.Ο αναγνώστης θα έχουν τη δυνατότητα να δανείζεται βιβλία από τις 
-βιβλιοθήκες, να επιλέγει το χρόνο δανεισμού και να τον επεκτείνει. Για κάθε βιβλίο ο 
-χρήστης θα μπορεί να δει αναλυτικά τις λεπτομέρειες του. Μια άλλη λειτουργία θα είναι ο 
-χρήστης να μπορεί να αναζητά βιβλία και να μπορεί να λάβει προτάσεις για βιβλία. 
-Επιπλέον, θα έχει τη δυνατότητα να δει τι διαβάζουν ή τι έχουν διαβάσει στο παρελθόν 
-άλλοι χρήστες, καθώς και να δει τι βιβλία έχει δανειστεί ο ίδιος στο παρελθόν και τι βιβλία 
-οφείλει. Αντίθετα, οι χρήστες που έχουν εγγραφεί σαν βιβλιοθήκες θα έχουν τη δυνατότητα 
-να προσθέτουν ή να αφαιρούν από τα διαθέσιμα βιβλία και να διαχειρίζονται τα αιτήματα 
-δανεισμού. Τέλος θα παρέχεται η δυνατότητα επίλυσης προβλημάτων και “βοήθειας” μέσω 
-του προγράμματος.
+## Project Description
+The project we are implementing concerns the management of a library and is the 
+"intermediary" between those who read books and those who have books available for 
+Its purpose is to give value to the books that remain unused in the library. 
+libraries, as well as to provide an inexpensive alternative to reading books. The 
+users will be able to register as readers or libraries. A reader 
+will be able to use some "financial resources" to borrow books. Still, 
+will be able to view the books available for borrowing, add favorite books to the list of books 
+authors, books, categories of books, rate books and write short 
+The reader will have the possibility to borrow books from the 
+libraries, choose the borrowing time and extend it. For each book the 
+the user will be able to see its details in detail. Another function will be the 
+user will be able to search for books and can receive book suggestions. 
+In addition, they will be able to see what they are reading or have read in the past 
+other users, as well as to see what books he has borrowed in the past and what books 
+owes. In contrast, users who have registered as libraries will be able to 
+add or remove from available books and manage requests 
+borrowing requests. Finally, problem solving and "help" will be provided through 
+assistance through the programme.
 
-## Μέλη Ομάδας
+## Team Members
 
-Αναστάσιος Βένος  
-Αλέξης Γεωργαντόπουλος-Γιαννούτσος  
-Γεώργιος Δουρούκας  
-Εμμανουήλ Μηναδάκης  
+Tasos Venos 
+Alexis Giannoutsos 
+George Douroukas  
+Manolis Minadakis  
 
 
