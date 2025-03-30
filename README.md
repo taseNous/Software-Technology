@@ -12,7 +12,6 @@ Organise a project from start to finish <br /> <br />
   &ensp; -Maintenance <br />
 
 <br />
-<br />
 
 # 📚 **LibConn**
 ## Project Description
@@ -34,12 +33,3 @@ owes. In contrast, users who have registered as libraries will be able to
 add or remove from available books and manage requests 
 borrowing requests. Finally, problem solving and "help" will be provided through 
 assistance through the programme.
-
-## Team Members
-
-Tasos Venos 
-Alexis Giannoutsos 
-George Douroukas  
-Manolis Minadakis  
-
-
